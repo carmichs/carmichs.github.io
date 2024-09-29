@@ -24,3 +24,12 @@ In art, a *tessera* is a small, individual piece (stone, tile, etc.) used to cre
 In business, our *tessera* represents a set of small, independent building blocks that solve your small to mid-size non-profit or social enterprises problems of managing marketing, member management, events, donors, fundraising, event planning, documentation management and more. Pick and choose the services you need and have them available in a single, unified dashboard.  Only pay for features you use.
 
 This reduces your cost, complexity and dependence on needing numerous, highly disjointed software products or custom development to pull your data from numerous sources.
+
+*** Tech Stack ***
+
+ - React / Next.js
+ - REST/GraphQL apis via Spring Boot
+ - Java
+ - Spring Security
+ - JPA / Postgres
+ - Amazon deployment in process
