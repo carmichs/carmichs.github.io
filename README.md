@@ -5,7 +5,7 @@ Hi! My name is Steve Carmichael and this my home on GitHub. Below are some of th
 # RunClubPro
 (work in progress, not in production) 
 
-**RunClubPro™** is a SaaS app that helps running club organizers manage club operations. The front-end is built in React/Next.js and communicates to a backend via Rest APIs implemented using Java, Spring Boot, Spring Security, JPA, and Postgres. Deployment to AWS pending. 
+**RunClubPro™** is a non-production SaaS app that helps running club organizers manage club operations. The front-end is built in Angular.js and communicates to a backend via Rest APIs implemented using Java, Spring Boot, Spring Security, JPA, and Postgres. Deployed in a non-production state to Azure static web apps, Azure app service and Azure SQL for Postgres.  
 
 ***Features:***
 
