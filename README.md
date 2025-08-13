@@ -1,6 +1,10 @@
 # Welcome
 
-Hi! My name is Steve Carmichael and this my home on GitHub. Below are some of the private projects I have been working on, or have in the past, many which are not published on this page.  Two projects I am excited about are:
+Hi! My name is Steve Carmichael and this my home on GitHub. Below are some of the private projects I have been working on, or have in the past, many which are not published on this page.  Three projects I am excited about are:
+
+# RunningFormAnalyzer
+(Startup Phase - Almost ready for Beta release)
+** Running Form Analyzer is a video analysis tool that allows users to upload short 5-15 second videos (side view and front-view) and have them analyzed using AI and POSE Estimation models. Metrics are then shown on the dashboard, with explanations and potential remediation drills to help correct running form and improve performance. You can also export data via excel or PDF reports.      
 
 # RunClubPro
 (work in progress, not in production) 
